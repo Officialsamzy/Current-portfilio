@@ -1880,3 +1880,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+
+.image-display {
+  display: none;
+  margin-top: 20px;
+}
+
+.image-display img {
+  max-width: 100%;
+}
